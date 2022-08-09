@@ -1,0 +1,5 @@
+story ='''Space Run Galaxy is the sequel to Space Run, the game from one-man studio Passtech, which seduced hundreds of thousands of players with its dynamic and original gameplay. By twisting the tower-defense game style, Space Run offered an addictive real-time spaceship construction strategy experience. Space Run Galaxy expands and refines the original’s unique gameplay, introduces a persistent online universe and takes-off again with plenty of new features!
+
+Set 20 years after the original game, Captain Buck Mann has now set up his very own intergalactic courier service. You’re a member of Mann’s team of space runners, racing to deliver precious goods from planet to planet! Reinforce your modular ships with armaments including laser turrets, missile launchers and energy shields, while leaving enough room for your cargo. Fly fast – the quicker you arrive at your destination, the better the rewards!
+
+Venture into the depths of space spanning an entire galaxy, with 4 solar systems and over 50 zones to visit across 100+ runs. Space Run Galaxy offers limitless gameplay, while fresh new features expand the original experienc'''
