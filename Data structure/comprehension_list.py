@@ -11,11 +11,14 @@ z =[i+j for i,j in zip(x,y)]
 print(z)
 
 
-name = ['bruce lee','clark kent','wally west']
+names = ['bruce lee','clark kent','wally west']
 initials =[]
 
-for name in name:
+for name in names:
     parts =name.split()
     initials.append(parts[0][0]+parts[-1][0])
+print(initials)
+
+initials = [name.split()[0][0]+name.split()[-1][0] for name in names ]
 print(initials)
 
